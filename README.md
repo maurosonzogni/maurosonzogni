@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maurosonzogni
 - 🌱 I’m currently learning IT 
-- 📫 How to reach me: maurosonzo1997@gmail.com or m.sonzogni6@gmail.com
+- 📫 How to reach me: maurosonzo1997@gmail.com or m.sonzogni6@campus.unimib.it
 
 <!---
 maurosonzogni/maurosonzogni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
